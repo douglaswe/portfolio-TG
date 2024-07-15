@@ -1,4 +1,4 @@
-<h1 align="center> Douglas José Ferreira de Queiroz </h1>
+<h1 align="center"> Douglas José Ferreira de Queiroz </h1>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4f416575-778b-49f0-a36a-d35703a19f2a" width="100">   
