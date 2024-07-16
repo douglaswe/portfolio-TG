@@ -1,7 +1,7 @@
 <h1 align="center"> Douglas José Ferreira de Queiroz </h1>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4f416575-778b-49f0-a36a-d35703a19f2a" width="200" >   
+<img src="https://github.com/user-attachments/assets/4f1282f8-b242-4907-8d31-660010240a00" width="200" style="border: 2px solid black;  border-radius: 5%;" >   
 </p>
 
 ## Introdução
@@ -13,8 +13,8 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de
 
 | Ano/Semestre |                          Descrição                          | Parceiro Acadêmico |                              Informações                               |
 | :----------: | :---------------------------------------------------------: | :----------------: | :--------------------------------------------------------------------: |
-|   2021 - 1   | Website institucional para uma ONG de Convivência Infantil  |       Fatec        | [📑 API 1](https://github.com/douglaswe/portfolio-TG/blob/main/API1.md) |
-|   2021 - 2   | Website de gerenciamento do quadro de presença de terceiros |      JetSoft       |                     [📑 API 2](https://github.com/)                     |
+|   2021 - 1   | Website institucional para uma ONG de Convivência Infantil  |       Fatec        | [📑 API 1](https://github.com/douglaswe/portfolio-TG/blob/main/API-1.md) |
+|   2021 - 2   | Website de gerenciamento do quadro de presença de terceiros |      JetSoft       |                     [📑 API 2](https://github.com/douglaswe/portfolio-TG/blob/main/API-2.md)                     |
 |   2022 - 1   |    Website de gerenciamento de contas de água e energia     |       Tecsus       |                     [📑 API 3](https://github.com/)                     |
 |   2022 - 2   |      Website para controle de Hora Extra e Sobreaviso       |      2RP Net       |                     [📑 API 4](https://github.com/)                     |
 |   2024 - 1   |        Desenvolver um sistema de gestão de parceiros        |   Oracle Academy   |                     [📑 API 5](https://github.com/)                     |
