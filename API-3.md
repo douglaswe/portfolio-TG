@@ -135,6 +135,7 @@ O parceiro neste projeto foi a Tecsus, uma startup que desenvolve dispositivos, 
 
 <span id="repositorio">
 
+---
 ### [📕 Repositório do Projeto ](https://github.com/douglaswe/tecsus)
 ---
 
@@ -169,7 +170,7 @@ O parceiro neste projeto foi a Tecsus, uma startup que desenvolve dispositivos, 
   - Insomnia - Teste de requisições de API;
   - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
   - Eclipse - Ambiente de Desenvolvimento Integrado com Workspace para Java para desenvolvimento do back-end;
-  - Figma - Criação dos Mockups.
+  - Figma - Criação da prototipagem.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
@@ -203,9 +204,6 @@ Neste projeto atuei como Desenvolvedor Frontend e backend desenvolvi o cadastro 
   </summary>
   <img src="https://github.com/Grupo1API/TecSus/raw/main/readme/sprint_1/midias/dod/cadastro_conta_energia.gif" width="600px">
 </details>
-
-
-
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 

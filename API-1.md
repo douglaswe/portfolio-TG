@@ -88,6 +88,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 
 <span id="repositorio">
 
+---
 ### [📕 Repositório do Projeto ](https://github.com/douglaswe/Projeto-API)
 ---
 
@@ -117,7 +118,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
  
   - Github - Repositório do projeto para controle de versão;
   - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
-  - Figma - Edição de componentes da documentação, imagens e apresentações;
+  - Figma - Criação da prototipagem e da documentação, imagens e apresentações;
   
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
@@ -125,7 +126,7 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 <span id="contribuições">
 
 ## Contribuições Pessoais
-Neste projeto atuei como Scrum Master, buscando facilitar a implementação da metodologia Scrum e garantir que a equipe de desenvolvimento trabalhe de forma colaborativa, além de auxiliar na organização das atividades. Houveram diversos empecilhos nesse projeto: a saída de um integrante do grupo, e a demissão de outro. Com isso, ficamos com 3 integrantes no grupo, sendo apenas 2 da equipe de desenvolvimento. Por conta disso, eu participei do desenvolvimento do projeto. Desenvolvi todo a parte do frontend.
+Neste projeto atuei como Scrum Master, buscando facilitar a implementação da metodologia Scrum e garantir que a equipe de desenvolvimento trabalhe de forma colaborativa, além de auxiliar na organização das atividades. Houveram diversos empecilhos nesse projeto: a saída de um integrante do grupo, e a demissão de outro. Com isso, ficamos com 3 integrantes no grupo, sendo apenas 2 da equipe de desenvolvimento. Por conta disso, eu participei do desenvolvimento do projeto e Desenvolvi todo a parte do frontend.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 

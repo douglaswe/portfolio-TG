@@ -99,6 +99,7 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
 
 <span id="repositorio">
 
+---
 ### [📕 Repositório do Projeto ](https://github.com/douglaswe/JetSoft)
 ---
 
@@ -130,7 +131,7 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
  
   - Github - Repositório do projeto para controle de versão;
   - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
-  - Figma - Criação dos Mockups.
+  - Figma - Criação da prototipagem.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
@@ -203,7 +204,17 @@ Fui encarregado principalmente do desenvolvimento do Frontend, sendo responsáve
 
 ## Soft Skills
 
-* Por integrar a equipe de desenvolvimento, pude aprimorar minhas competências de comunicação com os colegas, bem como a liberdade necessária para adquirir novos conhecimentos por conta própria ao longo da API como Python e Flask.
+* Trabalho em equipe
+<p>Por integrar a equipe de desenvolvimento, pude aprimorar minhas competências de comunicação com os colegas, bem como a liberdade necessária para adquirir novos conhecimentos por conta própria ao longo da API como Python e Flask.
+</p>
 
+* Autonomia
+<p>Foi preciso muita autonomia para atuar como Desenvolvedor e aprender novas tecnologias para desenvolver funcionalidades no projeto.</p>
+
+* Entrega de Resultados
+<p>Todas as tarefas que me foram atribuídas através do backlog das sprints foram concluídas dentro do prazo e com a qualidade e funcionalidades esperadas, contribuindo para o sucesso do projeto.</p>
+
+* Comunicação
+<p>Durante o projeto, a comunicação foi um aspecto fundamental para garantir o sucesso das entregas.</p>
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)

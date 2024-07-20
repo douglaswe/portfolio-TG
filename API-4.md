@@ -1,4 +1,3 @@
-
 `Em 2022-2`
 <span id="topo">
 <h1 align="center"><b>Website para controle de Hora Extra e Sobreaviso</h1></b>
@@ -164,6 +163,7 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
 
 <span id="repositorio">
 
+---
 ### [📕 Repositório do Projeto ](https://github.com/douglaswe/2RP)
 ---
 
@@ -172,8 +172,6 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
 ##### Reuniões
    
   - WhatsApp - Comunicação rápida com os integrantes, avisos;
-  - Microsoft Teams - Acesso à documentação dos requisitos e compartilhamento de arquivos do grupo;
-  - Slack - Comunicação e validações com o cliente.
  
 ##### Banco de Dados
  
@@ -194,7 +192,7 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
  
   - Github - Repositório do projeto para controle de versão;
   - Visual Studio Code - Ambiente de Desenvolvimento Integrado do grupo;
-  - Figma - Criação dos Mockups.
+  - Figma - Criação da prototipagem.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
