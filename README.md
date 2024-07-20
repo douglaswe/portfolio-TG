@@ -17,7 +17,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de
 |   2021 - 2   | Website de gerenciamento do quadro de presença de terceiros |      JetSoft       |                     [📑 API 2](https://github.com/douglaswe/portfolio-TG/blob/main/API-2.md)                     |
 |   2022 - 1   |    Website de gerenciamento de contas de água e energia     |       Tecsus       |                     [📑 API 3](https://github.com/douglaswe/portfolio-TG/blob/main/API-3.md)                     |
 |   2022 - 2   |      Website para controle de Hora Extra e Sobreaviso       |      2RP Net       |                     [📑 API 4](https://github.com/douglaswe/portfolio-TG/blob/main/API-4.md)                     |
-|   2024 - 1   |        Desenvolver um sistema de gestão de parceiros        |   Oracle Academy   |                     [📑 API 5](https://github.com/)                     |
+|   2024 - 1   |        Desenvolver um sistema de gestão de parceiros        |   Oracle Academy   |                     [📑 API 5](https://github.com/douglaswe/portfolio-TG/blob/main/API-5.md)                     |
 |   2024 - 2   |                             ...                             |        ...         |                              [📑 API 6]()                               |
 ## Principais Conhecimentos
 |                                                         Tecnologias                                                          | Básico | Intermediário | Avançado |
