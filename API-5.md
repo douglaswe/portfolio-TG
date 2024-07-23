@@ -58,9 +58,44 @@ Este sistema será responsável por cadastrar novos parceiros, gerenciar atualiz
 
 <details>
   <summary>
-    <h4 align="left">Colocar todas as funcionalidades do projeto aqui</h4>
+    <h4 align="left">Cadastro de Parceiro</h4>
   </summary>
-  <img src="" width="600px">
+  <img src="https://github.com/user-attachments/assets/499cea72-5ee8-4557-9385-516e40a2e2ef" width="300px">
+</details>
+
+<details>
+  <summary>
+    <h4 align="left">Login</h4>
+  </summary>
+  <img src="https://github.com/user-attachments/assets/198e6c40-4e7b-4c56-adeb-70d2ee7f4de5" width="300px">
+</details>
+
+<details>
+  <summary> 
+    <h4 align="left">Filtragem dos parceiros cadastrados </h4>
+  </summary>
+  <img src="https://github.com/user-attachments/assets/ac3cf4a5-b5eb-4b6b-acdd-714a861c9466" width="300px">
+</details>
+
+<details>
+  <summary> 
+    <h4 align="left">Listagem das trilhas e especialização</h4>
+  </summary>
+  <img src="https://github.com/user-attachments/assets/7f9675d3-3a5a-4090-a13c-2e6824fc7795" width="300px">
+</details>
+
+<details>
+  <summary> 
+    <h4 align="left">Dashboard e detalhes do parceiro</h4>
+  </summary>
+  <img src="https://github.com/user-attachments/assets/ce277e15-2624-4914-904a-75dcf4034909" width="300px">
+</details>
+
+<details>
+  <summary>
+    <h4 align="left">Listagem dos Administrador e Cadastro do administrador</h4>
+  </summary>
+  <img src="https://github.com/user-attachments/assets/cb9969f2-da8b-4056-a81c-5b5d7a7199fe" width="300px">
 </details>
 
 <span id="repositorio">
@@ -97,48 +132,11 @@ Este sistema será responsável por cadastrar novos parceiros, gerenciar atualiz
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
+<span id="contribuições">
+
 ## Contribuições Pessoais
 
 Neste projeto atuei como Desenvolvedor Frontend desenvolvi o cadastro de Parceiro, Login, Listagem dos Administrador, Cadastro do administrador, filtragem dos parceiros, detalhes do parceiro , cadastrados, Listagem das trilhas e especialização e por ultimo o dashboard.   
-
-*Exemplo das minhas contribuições:*
-
-<details>
-  <summary>
-    <h4 align="left">Cadastro de Parceiro</h4>
-  </summary>
-  <img src="https://github.com/user-attachments/assets/499cea72-5ee8-4557-9385-516e40a2e2ef" width="600px">
-</details>
-
-<details>
-  <summary>
-    <h4 align="left">Login</h4>
-  </summary>
-  <img src="https://github.com/user-attachments/assets/198e6c40-4e7b-4c56-adeb-70d2ee7f4de5" width="600px">
-</details>
-
-<details>
-  <summary> 
-    <h4 align="left">Filtragem dos parceiros cadastrados e Listagem das trilhas e especialização</h4>
-  </summary>
-  <img src="https://github.com/user-attachments/assets/ac3cf4a5-b5eb-4b6b-acdd-714a861c9466" width="600px">
-</details>
-
-
-<details>
-  <summary> 
-    <h4 align="left">Dashboard e detalhes do parceiro</h4>
-  </summary>
-  <img src="https://github.com/user-attachments/assets/af91a69a-c198-48bc-a53e-d23bcbae0903" width="600px">
-</details>
-
-<details>
-  <summary>
-    <h4 align="left">Listagem dos Administrador e Cadastro do administrador</h4>
-  </summary>
-  <img src="" width="600px">
-</details>
-
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
