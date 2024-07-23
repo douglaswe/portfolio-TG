@@ -60,42 +60,43 @@ Este sistema será responsável por cadastrar novos parceiros, gerenciar atualiz
   <summary>
     <h4 align="left">Cadastro de Parceiro</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/499cea72-5ee8-4557-9385-516e40a2e2ef" width="300px">
+  <img src="https://github.com/user-attachments/assets/499cea72-5ee8-4557-9385-516e40a2e2ef" width="250px">
 </details>
 
 <details>
   <summary>
     <h4 align="left">Login</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/198e6c40-4e7b-4c56-adeb-70d2ee7f4de5" width="300px">
+  <img src="https://github.com/user-attachments/assets/198e6c40-4e7b-4c56-adeb-70d2ee7f4de5" width="250px">
 </details>
 
 <details>
   <summary> 
     <h4 align="left">Filtragem dos parceiros cadastrados </h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/ac3cf4a5-b5eb-4b6b-acdd-714a861c9466" width="300px">
+  <img src="https://github.com/user-attachments/assets/ac3cf4a5-b5eb-4b6b-acdd-714a861c9466" width="250px">
 </details>
 
 <details>
   <summary> 
     <h4 align="left">Listagem das trilhas e especialização</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/7f9675d3-3a5a-4090-a13c-2e6824fc7795" width="300px">
+  <img src="https://github.com/user-attachments/assets/14887196-3021-49e8-9aeb-6e4d712d3be7" width="250px">
+  
 </details>
 
 <details>
   <summary> 
     <h4 align="left">Dashboard e detalhes do parceiro</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/ce277e15-2624-4914-904a-75dcf4034909" width="300px">
+  <img src="https://github.com/user-attachments/assets/ce277e15-2624-4914-904a-75dcf4034909" width="250px">
 </details>
 
 <details>
   <summary>
     <h4 align="left">Listagem dos Administrador e Cadastro do administrador</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/cb9969f2-da8b-4056-a81c-5b5d7a7199fe" width="300px">
+  <img src="https://github.com/user-attachments/assets/cb9969f2-da8b-4056-a81c-5b5d7a7199fe" width="250px">
 </details>
 
 <span id="repositorio">
