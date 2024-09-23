@@ -7,7 +7,7 @@
 
 ## Introdução
 
-Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, atualmente cursando o 6º semestre. Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) realizados durante a graduação.
+Meu nome é Douglas tenho 25 anos sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal atualmente cursando o 6º semestre, entrei na faculdade no momento de pandemia e até aquele momento não tinha tido contato com Linguagem de Programação. Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) realizados durante a graduação.
 
 ## Projetos
 <div id="projetos" text-align="center">
@@ -19,7 +19,7 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de
 |   2022 - 1   |    Website de gerenciamento de contas de água e energia     |       Tecsus       |                     [📑 API 3](https://github.com/douglaswe/portfolio-TG/blob/main/API-3.md)                     |
 |   2022 - 2   |      Website para controle de Hora Extra e Sobreaviso       |      2RP Net       |                     [📑 API 4](https://github.com/douglaswe/portfolio-TG/blob/main/API-4.md)                     |
 |   2024 - 1   | Desenvolver um sistema mobile de gestão de parceiros        |   Oracle Academy   |                     [📑 API 5](https://github.com/douglaswe/portfolio-TG/blob/main/API-5.md)                     |
-|   2024 - 2   |<img src="https://img.icons8.com/?size=100&id=HvTaJsbfMZD3&format=png&color=ffffff" align="center" width="25">|<img src="https://img.icons8.com/?size=100&id=HvTaJsbfMZD3&format=png&color=ffffff" align="center" width="25">|[📑 API 6]()|
+|   2024 - 2   |Desenvolvimento de um chatbot inteligente baseado em IA generativa que será capaz de analisar uma vasta base de depoimentos de clientes. Esse sistema usará a técnica RAG para buscar respostas diretamente da base de dados|Dom Rock|[📑 API 6]()|
 
 ## Principais Conhecimentos
 
