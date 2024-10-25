@@ -236,7 +236,7 @@ A autonomia foi essencial neste projeto, especialmente ao assumir a responsabili
 Todas as tarefas atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo foi o desenvolvimento do sistema de upload e download de faturas. Esse sistema permitiu aos usuários gerenciar contas de forma eficiente, facilitando o controle das despesas e contribuindo diretamente para os objetivos de sustentabilidade da Tecsus.
 
 ## Comunicação
-A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Mantive contato direto com os membros da equipe para alinhar expectativas e garantir que as tarefas estivessem sempre claras. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Isso garantiu que a equipe permanecesse informada e focada nas prioridades do projeto.
+A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Isso garantiu que a equipe permanecesse informada e focada nas prioridades do projeto.
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
