@@ -203,17 +203,17 @@ Fui encarregado principalmente do desenvolvimento do Frontend, sendo responsáve
 <span id="soft-skills">
 
 ## Soft Skills
-## Trabalho em equipe  
-Ao integrar a equipe de desenvolvimento, além de contribuir tecnicamente, desenvolvi habilidades de comunicação mais eficientes com meus colegas. Por exemplo, ao trabalhar na API com Python e Flask, pude colaborar de forma mais assertiva com os outros desenvolvedores, trocando conhecimento e resolvendo problemas em conjunto. Além disso, tive liberdade para aprender novas tecnologias por conta própria, o que melhorou minha contribuição para o projeto.
 
-## Autonomia  
-A atuação como desenvolvedor exigiu bastante autonomia, principalmente para aprender e implementar novas tecnologias rapidamente. Um exemplo foi a necessidade de desenvolver uma funcionalidade de login seguro. Tive que aprender sobre níveis de acesso e implementá-los no backend, garantindo que a autenticação fosse segura e funcional dentro do prazo estipulado, sem depender de outros membros da equipe.
+## Trabalho em equipe
+Durante o desenvolvimento da aplicação, enfrentamos desafios com a disponibilidade de alguns membros da equipe devido a contratempos pessoais. Isso exigiu uma colaboração ainda maior entre os integrantes. Para garantir que o projeto não fosse impactado, me envolvi em tarefas adicionais além das minhas atribuições, auxiliando em partes do backend que estavam com atraso. Essa flexibilidade ajudou a manter o ritmo do projeto e garantir que as entregas fossem feitas no prazo.
 
-## Entrega de Resultados  
-Todas as tarefas que me foram atribuídas no backlog das sprints foram concluídas com sucesso. Um caso em particular foi a entrega da página de login, que além de ter a interface desenvolvida no frontend, também exigiu a integração de um sistema de autenticação robusto no backend. A conclusão dessas tarefas dentro do prazo garantiu que as funcionalidades chave do website fossem entregues conforme o planejado.
+## Autonomia
+A autonomia foi essencial neste projeto, especialmente ao assumir a responsabilidade tanto pelo frontend quanto pelo backend do cadastro de contas de água e energia. Precisei dominar rapidamente novas tecnologias para implementar as funcionalidades de upload e download de faturas. Sem depender de outras áreas, consegui conduzir as entregas de ponta a ponta, garantindo que as funcionalidades atendessem às expectativas do cliente.
 
-## Comunicação  
-A comunicação foi essencial durante o projeto, tanto internamente quanto com o cliente. Por exemplo, ao desenvolver o quadro de postos de trabalho, que exibe e filtra informações, precisei discutir com a equipe os requisitos específicos de filtragem e exibição de dados. Esse diálogo constante permitiu ajustes em tempo real, garantindo que a solução final atendesse plenamente às necessidades do cliente.
+## Entrega de Resultados
+Todas as tarefas atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo foi o desenvolvimento do sistema de upload e download de faturas. Esse sistema permitiu aos usuários gerenciar contas de forma eficiente, facilitando o controle das despesas e contribuindo diretamente para os objetivos de sustentabilidade da Tecsus.
 
+## Comunicação
+A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Mantive contato direto com os membros da equipe para alinhar expectativas e garantir que as tarefas estivessem sempre claras. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Isso garantiu que a equipe permanecesse informada e focada nas prioridades do projeto.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
