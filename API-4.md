@@ -219,17 +219,16 @@ Neste projeto atuei como Desenvolvedor frontend onde desenvolvi as telas de info
 
 ## Soft Skills
 
-* Trabalho em equipe
-<p> A equipe precisou trabalhar bem devido a redução de integrantes. A divisão de tarefas, as duvidas, e toda a organização foi bem trabalhada pela equipe, o que ajudou no resultado. </p>
+## Trabalho em equipe
+Devido à redução do número de integrantes na equipe, foi necessário um esforço coletivo para garantir a entrega do projeto. A divisão de tarefas foi organizada de forma eficiente, e, sempre que surgiam dúvidas ou problemas, os membros colaboravam prontamente para solucioná-los. Por exemplo, quando estávamos ajustando as telas do quadro de clientes, outro desenvolvedor teve que se ausentar, e eu assumi parte de sua tarefa para garantir que a entrega fosse feita dentro do prazo.
 
-* Autonomia
-<p>Foi preciso muita autonomia para atuar como Desenvolvedor e aprender novas tecnologias para desenvolver funcionalidades no projeto.</p>
+## Autonomia
+A autonomia foi uma habilidade essencial neste projeto. Fui responsável por desenvolver as telas de informações do cliente, edição do cliente, quadro de clientes e dashboards. Precisei aprender rapidamente algumas novas tecnologias de frontend e tomar decisões de design e implementação de forma independente, o que garantiu que as funcionalidades fossem entregues com qualidade e no tempo estipulado.
 
-* Entrega de Resultados
-<p>Todas as tarefas que me foram atribuídas através do backlog das sprints foram concluídas dentro do prazo e com a qualidade e funcionalidades esperadas, contribuindo para o sucesso do projeto.</p>
+## Entrega de Resultados
+Todas as tarefas atribuídas no backlog das sprints foram concluídas dentro do prazo. Um exemplo foi o desenvolvimento do dashboard, que precisou ser ajustado várias vezes para atender às demandas do cliente em relação à visualização dos dados. Além disso, implementei as funcionalidades de edição do cliente, que permitiram uma interação mais eficiente entre gestores e colaboradores.
 
-* Comunicação
-<p>Durante o projeto, a comunicação foi um aspecto fundamental para garantir o sucesso das entregas. Para isso, utilizamos um formulário diário para registrar as tarefas realizadas no dia, os planos para o dia seguinte e quaisquer dificuldades encontradas. Mantive a constância na atualização dessas informações, o que contribuiu para evitar perda de informações e prazos.</p>
-
+## Comunicação
+A comunicação eficaz foi crucial para o progresso do projeto, especialmente com a equipe reduzida. Estabelecemos reuniões diárias curtas, onde cada membro compartilhava rapidamente o que havia realizado, os desafios enfrentados e as prioridades do dia.Essa abordagem colaborativa não só facilitou a resolução de problemas rapidamente, mas também promoveu um ambiente de transparência e confiança, garantindo que todos estivessem alinhados e motivados em direção aos objetivos do projeto.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
