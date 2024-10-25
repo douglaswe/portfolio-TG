@@ -158,16 +158,16 @@ Neste projeto atuei como Desenvolvedor Frontend desenvolvi o cadastro de Parceir
 
 ## Soft Skills
 
-* Trabalho em equipe
-<p> A divisão de tarefas, as duvidas, e toda a organização foi bem trabalhada pela equipe, o que ajudou no resultado. </p>
+## Trabalho em equipe
+A colaboração da equipe foi fundamental neste projeto, especialmente ao lidar com a complexidade da gestão de parceiros. Com a necessidade de manter as informações atualizadas e acessíveis, trabalhamos juntos para garantir que as funcionalidades do sistema atendessem às expectativas do cliente. 
 
-* Autonomia
-<p>Foi preciso muita autonomia para atuar como Desenvolvedor e aprender novas tecnologias para desenvolver funcionalidades no projeto.</p>
+## Autonomia
+Tive a autonomia necessária para fazer o desenvolvimento do frontend que envolveu o aprendizado e a aplicação de novas tecnologias (react native). Isso me permitiu desenvolver várias funcionalidades, como o cadastro de parceiros e a criação do dashboard, de forma independente. 
 
-* Entrega de Resultados
-<p>Todas as tarefas que me foram atribuídas através do backlog das sprints foram concluídas dentro do prazo e com a qualidade e funcionalidades esperadas, contribuindo para o sucesso do projeto.</p>
+## Entrega de Resultados
+Todas as funcionalidades atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo claro foi a implementação da filtragem dos parceiros, que exigiu um entendimento profundo dos requisitos do cliente e uma execução precisa para garantir que os usuários pudessem acessar as informações relevantes de maneira rápida e eficiente. A entrega de cada componente, desde o cadastro até o dashboard, contribuiu significativamente para o sucesso do sistema.
 
-* Comunicação
-<p>Durante o projeto, a comunicação foi um aspecto fundamental para garantir o sucesso das entregas. Para isso, utilizamos bastante o WhatsApp.</p>
+## Comunicação
+A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
