@@ -145,17 +145,17 @@ Neste projeto atuei como Scrum Master, buscando facilitar a implementação da m
 
 ## Soft Skills
 
-* Trabalho em equipe
-<p> Devido à redução do número de integrantes na equipe, a colaboração tornou-se ainda mais essencial. Assumimos papéis adicionais e dividimos as tarefas de forma estratégica. Por exemplo, quando um desenvolvedor enfrentou dificuldades em resolver um bug crítico, outro colega rapidamente se ofereceu para ajudar, resolvendo o problema em conjunto. Essa coordenação foi crucial para garantir que os prazos fossem cumpridos.</p>
+## Trabalho em equipe
+Devido à redução do número de integrantes na equipe, a colaboração tornou-se ainda mais essencial. Assumimos papéis adicionais e dividimos as tarefas de forma estratégica. Por exemplo, quando um desenvolvedor enfrentou dificuldades em resolver um bug crítico, outro colega rapidamente se ofereceu para ajudar, resolvendo o problema em conjunto. Essa coordenação foi crucial para garantir que os prazos fossem cumpridos.
 
-* Autonomia
-<p> Como Scrum Master, precisei tomar decisões rápidas. Um exemplo específico foi quando me deparei com a necessidade de aprender um novo framework Bootstrap para implementar uma funcionalidade no projeto. Mesmo sem muita experiência na tecnologia, consegui buscar soluções, implementar e testar, garantindo que a entrega fosse feita a tempo.</p>
+## Autonomia
+Como Scrum Master, precisei tomar decisões rápidas. Um exemplo específico foi quando me deparei com a necessidade de aprender um novo framework Bootstrap para implementar uma funcionalidade no projeto. Mesmo sem muita experiência na tecnologia, consegui buscar soluções, implementar e testar, garantindo que a entrega fosse feita a tempo.
 
-* Organização
-<p> Fui responsável por organizar o repositório do projeto. Além disso, durante uma sprint crítica, preparei uma apresentação para o cliente detalhando o progresso e os próximos passos, o que ajudou a alinhar expectativas e manter o projeto no rumo certo. Também monitorei e atualizei o burndown diariamente, garantindo que a equipe mantivesse o ritmo adequado.</p>
+## Organização
+Fui responsável por organizar o repositório do projeto. Além disso, durante uma sprint crítica, preparei uma apresentação para o cliente detalhando o progresso e os próximos passos, o que ajudou a alinhar expectativas e manter o projeto no rumo certo. Também monitorei e atualizei o burndown diariamente, garantindo que a equipe mantivesse o ritmo adequado.
 
-* Comunicação
-<p> A comunicação foi um fator determinante para o sucesso do projeto. Além de organizar as reuniões diárias (dailys), fui responsável por validar constantemente com o cliente a priorização das tarefas. Em uma ocasião específica, após uma alteração significativa solicitada pelo cliente, organizei uma reunião de emergência para discutir os impactos no backlog e ajustamos o planejamento da sprint de acordo. Isso garantiu que a equipe estivesse sempre alinhada com as expectativas do cliente.</p>
+## Comunicação
+A comunicação foi um fator determinante para o sucesso do projeto. Além de organizar as reuniões diárias (dailys), fui responsável por validar constantemente com o cliente a priorização das tarefas. Em uma ocasião específica, após uma alteração significativa solicitada pelo cliente, organizei uma reunião de emergência para discutir os impactos no backlog e ajustamos o planejamento da sprint de acordo. Isso garantiu que a equipe estivesse sempre alinhada com as expectativas do cliente.
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
