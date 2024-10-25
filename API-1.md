@@ -146,16 +146,16 @@ Neste projeto atuei como Scrum Master, buscando facilitar a implementação da m
 ## Soft Skills
 
 * Trabalho em equipe
-<p> A equipe precisou trabalhar bem devido a redução de integrantes. A divisão de tarefas, as duvidas, e toda a organização foi bem trabalhada pela equipe, o que ajudou no resultado.</p>
+<p> Devido à redução do número de integrantes na equipe, a colaboração tornou-se ainda mais essencial. Assumimos papéis adicionais e dividimos as tarefas de forma estratégica. Por exemplo, quando um desenvolvedor enfrentou dificuldades em resolver um bug crítico, outro colega rapidamente se ofereceu para ajudar, resolvendo o problema em conjunto. Essa coordenação foi crucial para garantir que os prazos fossem cumpridos.</p>
 
 * Autonomia
-<p>Foi preciso muita autonomia para atuar como Scrum Master e ainda precisar aprender tecnologias para desenvolver funcionalidades no projeto.</p>
+<p> Como Scrum Master, precisei tomar decisões rápidas. Um exemplo específico foi quando me deparei com a necessidade de aprender um novo framework Bootstrap para implementar uma funcionalidade no projeto. Mesmo sem muita experiência na tecnologia, consegui buscar soluções, implementar e testar, garantindo que a entrega fosse feita a tempo.</p>
 
 * Organização
-<p>Realizei a organização do respositório e fiz apresentações para o cliente, além de documentar todo o projeto e cuidar do burndown da equipe.</p>
+<p> Fui responsável por organizar o repositório do projeto. Além disso, durante uma sprint crítica, preparei uma apresentação para o cliente detalhando o progresso e os próximos passos, o que ajudou a alinhar expectativas e manter o projeto no rumo certo. Também monitorei e atualizei o burndown diariamente, garantindo que a equipe mantivesse o ritmo adequado.</p>
 
 * Comunicação
-<p>A comunicação foi constante. Precisei organizar as dailys, além de constantemente fazer validações com o cliente.</p>
+<p> A comunicação foi um fator determinante para o sucesso do projeto. Além de organizar as reuniões diárias (dailys), fui responsável por validar constantemente com o cliente a priorização das tarefas. Em uma ocasião específica, após uma alteração significativa solicitada pelo cliente, organizei uma reunião de emergência para discutir os impactos no backlog e ajustamos o planejamento da sprint de acordo. Isso garantiu que a equipe estivesse sempre alinhada com as expectativas do cliente.</p>
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
