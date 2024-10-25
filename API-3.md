@@ -226,14 +226,17 @@ Neste projeto atuei como Desenvolvedor Frontend e backend desenvolvi o cadastro 
 
 ## Soft Skills
 
-* Trabalho em equipe
-<p> Durante o projeto, enfrentamos alguns desafios com a equipe, pois alguns membros tiveram contratempos pessoais que impactaram sua disponibilidade. Para superar essa situação, foi fundamental que todos colaborassem e se esforçassem para garantir que as entregas fossem realizadas no prazo e com qualidade. Por isso auxiliei em diversas tarefas .</p>
+## Trabalho em equipe
+Durante o desenvolvimento da aplicação, enfrentamos desafios com a disponibilidade de alguns membros da equipe devido a contratempos pessoais. Isso exigiu uma colaboração ainda maior entre os integrantes. Para garantir que o projeto não fosse impactado, me envolvi em tarefas adicionais além das minhas atribuições, auxiliando em partes do backend que estavam com atraso. Essa flexibilidade ajudou a manter o ritmo do projeto e garantir que as entregas fossem feitas no prazo.
 
-* Entrega de Resultados
-<p>Todas as tarefas que me foram atribuídas através do backlog das sprints foram concluídas dentro do prazo e com a qualidade e funcionalidades esperadas, contribuindo para o sucesso do projeto.</p>
+## Autonomia
+A autonomia foi essencial neste projeto, especialmente ao assumir a responsabilidade tanto pelo frontend quanto pelo backend do cadastro de contas de água e energia. Precisei dominar rapidamente novas tecnologias para implementar as funcionalidades de upload e download de faturas. Sem depender de outras áreas, consegui conduzir as entregas de ponta a ponta, garantindo que as funcionalidades atendessem às expectativas do cliente.
 
-* Comunicação
-<p>Durante o projeto, a comunicação foi um aspecto fundamental para garantir o sucesso das entregas. Para isso, utilizamos um formulário diário para registrar as tarefas realizadas no dia, os planos para o dia seguinte e quaisquer dificuldades encontradas. Mantive a constância na atualização dessas informações, o que contribuiu para evitar perda de informações e prazos.</p>
+## Entrega de Resultados
+Todas as tarefas atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo foi o desenvolvimento do sistema de upload e download de faturas. Esse sistema permitiu aos usuários gerenciar contas de forma eficiente, facilitando o controle das despesas e contribuindo diretamente para os objetivos de sustentabilidade da Tecsus.
+
+## Comunicação
+A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Mantive contato direto com os membros da equipe para alinhar expectativas e garantir que as tarefas estivessem sempre claras. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Isso garantiu que a equipe permanecesse informada e focada nas prioridades do projeto.
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
