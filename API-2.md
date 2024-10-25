@@ -203,18 +203,17 @@ Fui encarregado principalmente do desenvolvimento do Frontend, sendo responsáve
 <span id="soft-skills">
 
 ## Soft Skills
+## Trabalho em equipe  
+Ao integrar a equipe de desenvolvimento, além de contribuir tecnicamente, desenvolvi habilidades de comunicação mais eficientes com meus colegas. Por exemplo, ao trabalhar na API com Python e Flask, pude colaborar de forma mais assertiva com os outros desenvolvedores, trocando conhecimento e resolvendo problemas em conjunto. Além disso, tive liberdade para aprender novas tecnologias por conta própria, o que melhorou minha contribuição para o projeto.
 
-* Trabalho em equipe
-<p>Por integrar a equipe de desenvolvimento, pude aprimorar minhas competências de comunicação com os colegas, bem como a liberdade necessária para adquirir novos conhecimentos por conta própria ao longo da API como Python e Flask.
-</p>
+## Autonomia  
+A atuação como desenvolvedor exigiu bastante autonomia, principalmente para aprender e implementar novas tecnologias rapidamente. Um exemplo foi a necessidade de desenvolver uma funcionalidade de login seguro. Tive que aprender sobre níveis de acesso e implementá-los no backend, garantindo que a autenticação fosse segura e funcional dentro do prazo estipulado, sem depender de outros membros da equipe.
 
-* Autonomia
-<p>Foi preciso muita autonomia para atuar como Desenvolvedor e aprender novas tecnologias para desenvolver funcionalidades no projeto.</p>
+## Entrega de Resultados  
+Todas as tarefas que me foram atribuídas no backlog das sprints foram concluídas com sucesso. Um caso em particular foi a entrega da página de login, que além de ter a interface desenvolvida no frontend, também exigiu a integração de um sistema de autenticação robusto no backend. A conclusão dessas tarefas dentro do prazo garantiu que as funcionalidades chave do website fossem entregues conforme o planejado.
 
-* Entrega de Resultados
-<p>Todas as tarefas que me foram atribuídas através do backlog das sprints foram concluídas dentro do prazo e com a qualidade e funcionalidades esperadas, contribuindo para o sucesso do projeto.</p>
+## Comunicação  
+A comunicação foi essencial durante o projeto, tanto internamente quanto com o cliente. Por exemplo, ao desenvolver o quadro de postos de trabalho, que exibe e filtra informações, precisei discutir com a equipe os requisitos específicos de filtragem e exibição de dados. Esse diálogo constante permitiu ajustes em tempo real, garantindo que a solução final atendesse plenamente às necessidades do cliente.
 
-* Comunicação
-<p>Durante o projeto, a comunicação foi um aspecto fundamental para garantir o sucesso das entregas.</p>
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
