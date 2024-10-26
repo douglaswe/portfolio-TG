@@ -7,7 +7,11 @@
 
 ## Introdução
 
-Meu nome é Douglas tenho 25 anos sou estudante do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal atualmente cursando o 6º semestre, entrei na faculdade no momento de pandemia e até aquele momento não tinha tido contato com Linguagem de Programação. Este repositório apresenta os APIs (Aprendizagem por Projetos Integrados) realizados durante a graduação.
+Sou Douglas tenho 25 anos iniciei minha jornada na área de tecnologia durante a pandemia, quando decidi ingressar no curso de Análise e Desenvolvimento de Sistemas na Fatec - São José dos Campos. Até então, não tinha experiência com programação, mas minha determinação em desenvolver habilidades técnicas e expandir conhecimentos me guiou ao longo dos semestres.
+
+Além da formação em TI, acumulo experiência prática no atendimento ao cliente, onde atuei como operador de caixa em um supermercado, desempenhando atividades como organização de fluxo de caixa, atendimento personalizado e orientação de clientes sobre campanhas e serviços da loja. Essa vivência me ensinou o valor da comunicação eficiente, da empatia no atendimento e da responsabilidade com processos detalhados.
+
+Neste repositório, compartilho os projetos integradores que desenvolvi na graduação (APIs - Aprendizagem por Projetos Integrados), refletindo minha evolução e o comprometimento com minha carreira em tecnologia.
 
 ## Projetos
 <div id="projetos" text-align="center">
