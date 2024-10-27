@@ -19,7 +19,7 @@
 
 ## Sobre o Projeto
 
-Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
+Desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
 
 1. Centralizar e automatizar as atividades relacionadas à gestão de parceiros de negócios.
 
