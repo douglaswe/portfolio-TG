@@ -11,6 +11,9 @@ Sou Douglas tenho 25 anos iniciei minha jornada na área de tecnologia durante a
 
 Além da formação em TI, acumulo experiência prática no atendimento ao cliente, onde atuei como operador de caixa em um supermercado, desempenhando atividades como organização de fluxo de caixa, atendimento personalizado e orientação de clientes sobre campanhas e serviços da loja. Essa vivência me ensinou o valor da comunicação eficiente, da empatia no atendimento e da responsabilidade com processos detalhados.
 
+Atualmente estou em busca de uma oportunidade de estágio onde possa aplicar minha paixão pela tecnologia. Meu objetivo é adquirir experiência prática no desenvolvimento de software trabalhando em equipe e aprender com profissionais experientes da área.
+
+
 Neste repositório, compartilho os projetos integradores que desenvolvi na graduação (APIs - Aprendizagem por Projetos Integrados), refletindo minha evolução e o comprometimento com minha carreira em tecnologia.
 
 ## Projetos
