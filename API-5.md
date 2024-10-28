@@ -1,7 +1,7 @@
 `Em 2024-1`
 
 <span id="topo">
-<h1 align="center"><b>Desenvolver um aplicativo mobile de gestão de parceiros para a Oracle</h1></b>
+<h1 align="center"><b>Desenvolver um aplicativo mobile de gestão de parceiros para a Oracle Academy</h1></b>
 
 <p align="center">
   <a href ="#sobre-o-projeto"> Sobre o Projeto </a>  • 
@@ -19,7 +19,7 @@
 
 ## Sobre o Projeto
 
-Desenvolver um sistema de gestão de parceiros para a Oracle. Antes do desenvolvimento deste aplicativo, o gerenciamento dos parceiros da Oracle era descentralizado, tornando difícil acompanhar o desenvolvimento e desempenho dos parceiros. Esses problemas dificultavam tanto a eficiência operacional quanto a tomada de decisões estratégicas.
+Desenvolver um sistema de gestão de parceiros para a Oracle Academy. Antes do desenvolvimento deste aplicativo, o gerenciamento dos parceiros da Oracle era descentralizado, tornando difícil acompanhar o desenvolvimento e desempenho dos parceiros. Esses problemas dificultavam tanto a eficiência operacional quanto a tomada de decisões estratégicas.
 
 Para resolver esses desafios, o grupo desenvolveu um aplicativo que não apenas centralizava as informações dos parceiros, mas também oferecia interfaces intuitivas para o cadastro, desenvolvimento e visualização de dados. A equipe dividiu o trabalho em módulos: uma interface de cadastro, um dashboard de indicadores de desempenho, uma funcionalidade de filtragem para facilitar a busca por parceiros e um relatório analítico.
 
