@@ -19,17 +19,9 @@
 
 ## Sobre o Projeto
 
-Desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile.
+Desenvolver um sistema de gestão de parceiros para a Oracle. Antes do desenvolvimento deste aplicativo, o gerenciamento dos parceiros da Oracle era descentralizado, tornando difícil acompanhar o desenvolvimento e desempenho dos parceiros. Esses problemas dificultavam tanto a eficiência operacional quanto a tomada de decisões estratégicas.
 
-1. Centralizar e automatizar as atividades relacionadas à gestão de parceiros de negócios.
-
-2. Proporcionar um local único para cadastrar, editar, excluir e monitorar todos os dados relevantes do relacionamento com os parceiros.
-
-3. Melhorar a eficiência operacional da organização.
-
-4. Auxiliar na consulta e visualização de dados relevantes do relacionamento com os parceiros.
-
-5. Visualizar um modelo de gestão de desempenho e/ou dados dos parceiros.
+Para resolver esses desafios, o grupo desenvolveu um aplicativo que não apenas centralizava as informações dos parceiros, mas também oferecia interfaces intuitivas para o cadastro, desenvolvimento e visualização de dados. A equipe dividiu o trabalho em módulos: uma interface de cadastro, um dashboard de indicadores de desempenho, uma funcionalidade de filtragem para facilitar a busca por parceiros e um relatório analítico.
 
 <span id="requisitos">
 
@@ -137,7 +129,23 @@ Desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será
 
 ## Contribuições Pessoais
 
-Neste projeto atuei como Desenvolvedor Frontend desenvolvi o cadastro de Parceiro, Login, Listagem dos Administrador, Cadastro do administrador, filtragem dos parceiros, detalhes do parceiro , cadastrados, Listagem das trilhas e especialização e por ultimo o dashboard.   
+Atuei como Desenvolvedor Frontend, focando na construção das principais interfaces e funcionalidades do aplicativo. Minhas contribuições incluem:
+
+* Cadastro de Parceiro: Desenvolvi uma interface intuitiva com formulários e validações para garantir a entrada correta de dados, usando React Native e TypeScript.
+
+* Login: Implementei a tela de login com autenticação segura e integração com o backend, garantindo acesso protegido.
+
+* Listagem e Cadastro de Administradores: Criei a listagem e o cadastro de novos administradores.
+
+* Filtragem de Parceiros: Configurei uma funcionalidade de filtragem que permite buscar parceiros por critérios específicos(nome, cnpj), organizando a visualização.
+
+* Detalhes do Parceiro: Desenvolvi uma tela detalhada para consultas rápidas sobre cada parceiro.
+
+* Listagem de Trilhas e Especializações: Modelei uma interface organizada para exibir as trilhas de desenvolvimento dos parceiros.
+
+* Dashboard de Desempenho: Projetei um dashboard com métricas e gráficos, integrando bibliotecas de visualização para facilitar.
+
+Essas implementações foram feitas com React Native, TypeScript e integração com Node.js 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
