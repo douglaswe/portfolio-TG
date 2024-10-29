@@ -23,13 +23,9 @@
 
 ## Sobre o Projeto
 
-O projeto tem como objetivo desenvolver uma aplicação de gerenciamento de contas para uma startup que busca promover a sustentabilidade por meio da tecnologia. 
+A Tecsus parceiro neste projeto, identificou que muitas empresas enfrentam dificuldades em controlar o consumo de água e energia devido à falta de uma ferramenta centralizada e eficiente. Esse problema dificultava a análise dos dados de consumo, a geração de alertas e o controle de gastos, resultando em potenciais desperdícios de recursos.
 
-O sistema foi projetado para tornar o processo de cadastro de contas, unidades, concessionárias e contratos simples e intuitivo, proporcionando ao usuário uma experiência dinâmica. 
-
-Além disso, exibe informações relevantes por meio de relatórios e gráficos descomplicados para facilitar a análise.
-
-O parceiro neste projeto foi a Tecsus, uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas, nos setores de abastecimento de água, distribuição de eletricidade e gás natural.
+Para resolver esse desafio, o projeto desenvolveu uma aplicação de gerenciamento de contas com funcionalidades de cadastro de unidades, concessionárias, contratos e contas de água e energia. O sistema facilita a visualização das informações e análise dos dados por meio de relatórios e gráficos, contribuindo para uma gestão sustentável dos recursos.
 
 <span id="requisitos">
 
