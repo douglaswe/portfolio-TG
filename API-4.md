@@ -23,12 +23,13 @@
 
 ## Sobre o Projeto
 
- A proposta do projeto foi a criação de um Webiste para controlar a jornada de trabalho do colaborador, permitindo o apontamento e classificação de horas extras e horas sobreaviso, possibilitando a extração paronizada das horas executadas.
- 
- O sistema foi projetado com diferentes perfis de usuário e suas respectivas funções:
- - administrador: controle de parâmetros pertinentes aos departamentos pessoal e financeiro; controle do sistema; 
- - gestor: aprovação e lançamento de horas;
- - colaborador: apontamento de horas.
+O projeto surgiu para resolver problemas frequentes de inconsistências no registro e no controle de horas extras e sobreavisos dos colaboradores. Antes da implementação, as equipes de RH e gestores enfrentavam dificuldades em calcular com precisão os valores devidos por horas extras e sobreaviso, resultando em erros de pagamento e falta de visibilidade clara sobre o banco de horas e a carga de trabalho.
+
+Para solucionar essas questões, desenvolvemos um website centralizado que permite o registro detalhado e a classificação de horas extras e sobreaviso, e facilita a extração padronizada das horas trabalhadas. O sistema foi construído com diferentes perfis de usuário, garantindo que cada função tivesse acesso personalizado:
+
+Administrador: responsável por definir os parâmetros dos departamentos pessoal e financeiro e gerenciar o sistema.
+Gestor: responsável pela aprovação e lançamento das horas, permitindo uma revisão antes do cálculo final.
+Colaborador: responsável pelo registro das próprias horas, simplificando o apontamento direto no sistema.
 
 O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em soluções e serviços em TI que disponibiliza soluções para análise de informações em tempo real, de modo a permitir a tomada de decisões de negócios que precisam atender requisitos de tempo extremamente rigorosos.
 
