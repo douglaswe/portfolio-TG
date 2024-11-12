@@ -188,7 +188,8 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
  
   - HTML5 - Estrututa e definição do layout do site;
   - CSS3 - Estilização do site.
-  
+  - JavaScript - Criação das interações do site;
+  - React - Biblioteca de frontend Javascript para interface de usuário;
 ##### Outros
  
   - Github - Repositório do projeto para controle de versão;

@@ -7,12 +7,11 @@
 
 ## Introdução
 
-Sou Douglas tenho 25 anos iniciei minha jornada na área de tecnologia durante a pandemia, quando decidi ingressar no curso de Análise e Desenvolvimento de Sistemas na Fatec - São José dos Campos. Até então, não tinha experiência com programação, mas minha determinação em desenvolver habilidades técnicas e expandir conhecimentos me guiou ao longo dos semestres.
+Olá, sou Douglas tenho 25 anos iniciei minha jornada na área de tecnologia durante a pandemia, quando decidi ingressar no curso de Análise e Desenvolvimento de Sistemas na Fatec - São José dos Campos. Até então, não tinha experiência com programação, mas minha determinação em desenvolver habilidades técnicas e expandir conhecimentos me guiou ao longo dos semestres.
 
 Além da formação em TI, acumulo experiência prática no atendimento ao cliente, onde atuei como operador de caixa em um supermercado, desempenhando atividades como organização de fluxo de caixa, atendimento personalizado e orientação de clientes sobre campanhas e serviços da loja. Essa vivência me ensinou o valor da comunicação eficiente, da empatia no atendimento e da responsabilidade com processos detalhados.
 
 Atualmente estou em busca de uma oportunidade de estágio onde possa aplicar minha paixão pela tecnologia. Meu objetivo é adquirir experiência prática no desenvolvimento de software trabalhando em equipe e aprender com profissionais experientes da área.
-
 
 Neste repositório, compartilho os projetos integradores que desenvolvi na graduação (APIs - Aprendizagem por Projetos Integrados), refletindo minha evolução e o comprometimento com minha carreira em tecnologia.
 
@@ -26,7 +25,7 @@ Neste repositório, compartilho os projetos integradores que desenvolvi na gradu
 |   2022 - 1   |    Website de gerenciamento de contas de água e energia     |       Tecsus       |                     [📑 API 3](https://github.com/douglaswe/portfolio-TG/blob/main/API-3.md)                     |
 |   2022 - 2   |      Website para controle de Hora Extra e Sobreaviso       |      2RP Net       |                     [📑 API 4](https://github.com/douglaswe/portfolio-TG/blob/main/API-4.md)                     |
 |   2024 - 1   | Desenvolver um sistema mobile de gestão de parceiros        |   Oracle Academy   |                     [📑 API 5](https://github.com/douglaswe/portfolio-TG/blob/main/API-5.md)                     |
-|   2024 - 2   |Desenvolvimento de um chatbot inteligente baseado em IA generativa que será capaz de analisar uma vasta base de depoimentos de clientes. Esse sistema usará a técnica RAG para buscar respostas diretamente da base de dados|Dom Rock|[📑 API 6]()|
+|   2024 - 2   |Desenvolvimento de um chatbot inteligente baseado em IA generativa que será capaz de analisar uma vasta base de depoimentos de clientes.|Dom Rock|[📑 API 6](https://github.com/douglaswe/portfolio-TG/blob/main/API-6.md)|
 
 ## Principais Conhecimentos
 
