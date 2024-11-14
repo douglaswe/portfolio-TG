@@ -135,7 +135,7 @@ As equipes de marketing enfrentam dificuldades para extrair rapidamente insights
 
 ## Contribuições Pessoais
 
-Atuei como Desenvolvedor Frontend e na parte do desenvolvimento da ia, na parte de ia desenvolvi a leitura e a limpeza dos dados do csv do B2W, o bloqueio de perguntas fora do contexto, criação do endpoints para conectar a IA com o frontend via WebSocket, Verificação de Alucinações do Chatbot ja na parte do frontend desenvolvi a apresentação das respostas no chatbot para torná-las mais legíveis e visualmente atraentes.
+Atuei como Desenvolvedor Frontend e na parte do desenvolvimento da IA, na parte de ia desenvolvi a leitura e a limpeza dos dados do csv do B2W, o bloqueio de perguntas fora do contexto, criação do endpoints para conectar a IA com o frontend via WebSocket, Verificação de Alucinações do Chatbot ja na parte do frontend desenvolvi a apresentação das respostas no chatbot para torná-las mais legíveis e visualmente atraentes.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
