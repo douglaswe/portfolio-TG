@@ -61,10 +61,37 @@ As equipes de marketing enfrentam dificuldades para extrair rapidamente insights
 
 <details>
   <summary>
-    <h4 align="left">Aqui esta a funcionalidade</h4>
+    <h4 align="left">Recomendação de produtos entre clientes (percepção dos clientes): Sugestões de produtos baseadas nas recomendações dos clientes.</h4>
   </summary>
-  <img src="https://github.com/user-attachments/assets/d93b4ff0-de9d-4bff-a321-5ee70fd0185d" width="250px">
+  
+  <img src="https://github.com/user-attachments/assets/21414842-e4fc-4616-bc69-4c20dbe9e78c">
 </details>
+
+<details>
+  <summary>
+    <h4 align="left">Análise de satisfação do cliente por produto: Avaliação do nível de contentamento por produto</h4>
+  </summary>
+  
+  <img src="https://github.com/user-attachments/assets/8c7730f4-892c-4e01-a090-838e6fe90291">
+</details>
+
+<details>
+  <summary>
+    <h4 align="left">Comparação de experiência de compra: Análise comparativa de compras entre diferentes perfis consumidores</h4>
+  </summary>
+  
+  <img src="https://github.com/user-attachments/assets/c81eb9ff-1483-4bea-8fc7-ee2bd3049072">
+</details>
+
+<details>
+  <summary>
+    <h4 align="left">Análise de produtos: Identificação do chatbot sobre padrões e características dos produtos apontadas pelas opiniões analisadas.</h4>
+  </summary>
+  
+  <img src="https://github.com/user-attachments/assets/b5b6930c-5e6e-48ec-b1e4-8ea0e44253e1">
+</details>
+
+
 
 
 <span id="repositorio">
@@ -88,7 +115,7 @@ As equipes de marketing enfrentam dificuldades para extrair rapidamente insights
   
 - Python - Utilizado para desenvolver a soluções de IA, especialmente no campo do Processamento de Linguagem Natural (PLN).
 - LangChain - Uma interface padrão que permite interações com uma ampla gama de Grandes Modelos de Linguagem (LLMs).
-- LLM (LLaMA) - Modelo usado.  
+- LLM (llama3-8b-8192) - Modelo usado.  
   
 ##### Front-end 
  
@@ -128,15 +155,15 @@ Atuei como Desenvolvedor Frontend e na parte do desenvolvimento da ia, na parte 
 ## Soft Skills
 
 ## Trabalho em equipe
-A colaboração da equipe foi fundamental neste projeto, especialmente ao lidar com a complexidade de aprender ia...
+A colaboração com a equipe foi essencial para o sucesso deste projeto, especialmente devido à complexidade de trabalhar com IA.  Por exemplo, durante a implementação do bloqueio de perguntas fora do contexto no chatbot, compartilhei a abordagem que estava usando com o time e troquei ideias sobre como aprimorar essa funcionalidade. Essa troca foi essencial para alinhar as soluções técnicas e garantir que todos entendessem o funcionamento e as possibilidades do sistema.
 
 ## Autonomia
-Tive a autonomia aprender rapidamente a trabalhar com ia...
+Mostrei iniciativa ao aprender rapidamente as tecnologias e ferramentas utilizadas no projeto, como ChromaDB, LangChain. Ao enfrentar desafios, busquei soluções de forma autônoma e proativa, recorrendo a materiais de estudo e testes próprios antes de solicitar ajuda. Essa abordagem ajudou a manter o andamento do projeto e mostrou minha capacidade de autogerenciamento e rápida adaptação a novas tecnologias.
 
 ## Entrega de Resultados
-Todas as funcionalidades atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo claro foi...
+Todas as funcionalidades atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo foi a criação do sistema de bloqueio de perguntas fora do contexto no chatbot, que além de atender ao prazo, trouxe melhorias significativas na precisão das respostas e na experiência do usuário.
 
 ## Comunicação
-A comunicação foi fundamental para o sucesso do projeto. Um exemplo claro foi...
+A comunicação foi fundamental para o sucesso do projeto. Um exemplo claro foi quando tivemos uma reunião para discutirmos quais colunas do csv do B2W seriam usadas no projeto 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
