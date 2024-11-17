@@ -170,12 +170,12 @@ Essas implementações foram feitas com React Native, TypeScript e integração 
 A colaboração da equipe foi fundamental neste projeto, especialmente ao lidar com a complexidade da gestão de parceiros. Com a necessidade de manter as informações atualizadas e acessíveis, trabalhamos juntos para garantir que as funcionalidades do sistema atendessem às expectativas do cliente. 
 
 ## Autonomia
-Tive a autonomia necessária para fazer o desenvolvimento do frontend que envolveu o aprendizado e a aplicação de novas tecnologias (react native). Isso me permitiu desenvolver várias funcionalidades, como o cadastro de parceiros e a criação do dashboard, de forma independente. Tambem tive a autonomia de buscar bibliotecas diferentes para fazer o dashboard.
+Tive a autonomia necessária para fazer o desenvolvimento do frontend que envolveu o aprendizado e a aplicação de novas tecnologias (react native). Isso me permitiu desenvolver várias funcionalidades, como o cadastro de parceiros e a criação do dashboard, de forma independente. Um exemplo foi que tive a autonomia de buscar bibliotecas diferentes para fazer o dashboard.
 
 ## Entrega de Resultados
 Todas as funcionalidades atribuídas foram concluídas dentro do prazo e com a qualidade esperada. Um exemplo claro foi a implementação da filtragem dos parceiros, que exigiu um entendimento profundo dos requisitos do cliente e uma execução precisa para garantir que os usuários pudessem acessar as informações relevantes de maneira rápida e eficiente. A entrega de cada componente, desde o cadastro até o dashboard, contribuiu significativamente para o sucesso do sistema.
 
 ## Comunicação
-A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Foi fundamental a comunicação para chegar ao consenso de quais metricas seriam usadas no dashboard.
+A comunicação foi fundamental para o sucesso do projeto, especialmente devido aos desafios com a equipe. Além disso, participei ativamente de reuniões de acompanhamento, onde discutimos o progresso e possíveis bloqueios, permitindo ajustes rápidos no planejamento e evitando atrasos. Um exemplo foi que precisei manter uma comunicação constante com o time para chegar a um consenso sobre quais métricas seriam usadas no dashboard.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
