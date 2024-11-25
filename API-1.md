@@ -23,7 +23,9 @@
 
 ## Sobre o Projeto
 
-A proposta do projeto foi a criação de um Webiste institucional para o CECOI Vó Maria Félix (ONG destinada para crianças), com intuito de melhorar a visibilidade e facilitar o contato entre a instituição e seus participantes, voluntários e pessoas/parceiros doadores.
+O projeto surgiu para resolver problemas enfrentados pelo CECOI Vó Maria Félix relacionados à baixa visibilidade e à dificuldade de comunicação com seus públicos-alvo, como participantes, voluntários e doadores. A ausência de um website institucional dificultava a divulgação de projetos, o contato com apoiadores e a transparência sobre as atividades realizadas, limitando o alcance e o impacto da instituição.
+
+Para solucionar essas questões, desenvolvemos um website institucional para o CECOI Vó Maria Félix (ONG destinada para crianças), com intuito de melhorar a visibilidade e facilitar o contato entre a instituição e seus participantes, voluntários e pessoas/parceiros doadores.
 
 O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, onde o Prof. Antonio Egydio fez o papel de cliente.
 
