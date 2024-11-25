@@ -23,7 +23,7 @@
 
 ## Sobre o Projeto
 
-O projeto surgiu para atender à necessidade de uma empresa de softwares que terceiriza serviços em melhorar o controle e a emissão de relatórios mensais sobre a presença de colaboradores alocados em postos de trabalho definidos por contrato com seus clientes. Antes do website, o processo era pouco eficiente, dificultando o acompanhamento de alocações fixas e flutuantes, especialmente em casos de eventos como férias, faltas, licenças ou demissões.
+A proposta do projeto foi desenvolvida para atender à necessidade de uma empresa de softwares que terceiriza serviços em melhorar o controle e a emissão de relatórios mensais sobre a presença de colaboradores alocados em postos de trabalho definidos por contrato com seus clientes. Antes do website, o processo era pouco eficiente, dificultando o acompanhamento de alocações fixas e flutuantes, especialmente em casos de eventos como férias, faltas, licenças ou demissões.
 
 Para resolver esse problema, foi desenvolvido um website que permite registrar e monitorar a presença dos colaboradores, facilitando a geração de relatórios mensais. A plataforma também foi projetada para gerenciar diferentes tipos de alocação e fornecer informações claras e atualizadas, otimizando a gestão de contratos e recursos humanos da empresa.
 
