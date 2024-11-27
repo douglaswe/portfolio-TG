@@ -176,6 +176,8 @@ Para resolver esse desafio, o projeto desenvolveu uma aplicação de gerenciamen
 
 Neste projeto atuei como Desenvolvedor Frontend e backend desenvolvi o cadastro da conta de água e o cadastro da conta de energia e upload e o download dessas contas tanto o frontend e o backend.
 
+Essas implementações no frontend foram feitas usando React js e no backend foram feitas usando Java.
+
 *Exemplo das minhas contribuições:*
 
 <details>
