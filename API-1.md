@@ -128,7 +128,10 @@ O parceiro neste projeto foi a Faculdade de Tecnologia de São José dos Campos 
 <span id="contribuições">
 
 ## Contribuições Pessoais
-Neste projeto atuei como Scrum Master, buscando facilitar a implementação da metodologia Scrum e garantir que a equipe de desenvolvimento trabalhe de forma colaborativa, além de auxiliar na organização das atividades. Houveram diversos empecilhos nesse projeto: a saída de um integrante do grupo, e a demissão de outro. Com isso, ficamos com 3 integrantes no grupo, sendo apenas 2 da equipe de desenvolvimento. Por conta disso, eu participei do desenvolvimento do projeto e Desenvolvi todo a parte do frontend.
+
+Neste projeto, atuei como Scrum Master/PO, sendo responsável por facilitar a implementação da metodologia Scrum, garantir que a equipe de desenvolvimento trabalhasse de forma colaborativa e organizada, além de manter um contato constante com o cliente para alinhar expectativas e prioridades.
+
+O projeto enfrentou alguns desafios, como a saída de um integrante do grupo e a demissão de outro, o que reduziu a equipe para apenas três integrantes, sendo dois deles desenvolvedores. Com isso, além das minhas responsabilidades como Scrum Master/PO, assumi um papel mais ativo no desenvolvimento. Fiquei responsável por toda a parte do frontend, utilizando HTML, CSS e o framework Bootstrap para criar as telas e entregar as funcionalidades.
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
 
