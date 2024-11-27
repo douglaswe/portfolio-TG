@@ -141,6 +141,8 @@ O parceiro neste projeto foi a JetSoft, uma empresa de software que oferece serv
 
 Fui encarregado principalmente do desenvolvimento do Frontend, sendo responsável por criar a página de Login, Menu lateral, Home. Na pagina de login também fiz todo o back end dela com nivel de acesso. Além disso, participei do desenvolvimento da página de cadastro de clientes e da página do quadro de presença, que mostra os dados de presença de um colaborador em um intervalo de um mês. Também fiz parte da criação do quadro de postos de trabalho, uma tabela que exibe informações sobre os postos de trabalho com filtros.
 
+Essas implementações no frontend foram feitas com HTML, CSS e JavaScript e no backend foram feitas usando Flask/Python;
+
 <details>
   <summary>
     <h4 align="left">Cadastro de Colaboradores</h4>
