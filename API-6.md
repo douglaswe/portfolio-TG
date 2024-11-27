@@ -19,7 +19,12 @@
 
 ## Sobre o Projeto
 
-As equipes de marketing enfrentam dificuldades para extrair rapidamente insights relevantes a partir de uma grande quantidade de depoimentos e feedbacks dos clientes. Esses depoimentos com grande volume, tornam difícil identificar tendências e áreas de melhoria de maneira ágil. Pensando nisso a equipe fez a proposta de um desenvolvimento de um chatbot inteligente baseado em IA generativa que será capaz de analisar uma vasta base de depoimentos de clientes da B2W. Esse sistema usará a técnica RAG (Retrieval Augmented Generation) para buscar respostas diretamente da base de dados vetorizada, proporcionando insights rápidos e precisos. O chatbot auxiliará equipes de marketing na personalização de campanhas e estratégias publicitárias, identificando tendências e áreas de melhoria a partir de comentários reais dos clientes. Dessa forma, ele ajudará a ajustar estratégias rapidamente e sugerir novos segmentos, otimizando a eficácia das campanhas de marketing. A empresa parceira nesse projeto foi a Dom Rock, especializada em inteligência artificial para a tomada de decisões em negócios.
+As equipes de marketing enfrentam dificuldades para extrair rapidamente insights relevantes a partir de uma grande quantidade de depoimentos e feedbacks dos clientes. Esses depoimentos com grande volume, tornam difícil identificar tendências e áreas de melhoria de maneira ágil. Pensando nisso a equipe fez a proposta de um desenvolvimento de um chatbot inteligente baseado em IA generativa que será capaz de analisar uma vasta base de depoimentos de clientes da B2W. 
+
+Esse sistema usará a técnica RAG (Retrieval Augmented Generation) para buscar respostas diretamente da base de dados vetorizada, proporcionando insights rápidos e precisos. O chatbot auxiliará equipes de marketing na personalização de campanhas e estratégias publicitárias, identificando tendências e áreas de melhoria a partir de comentários reais dos clientes. Dessa forma, ele ajudará a ajustar estratégias rapidamente e sugerir novos segmentos, otimizando a eficácia das campanhas de marketing.
+
+A empresa parceira nesse projeto foi a Dom Rock, especializada em inteligência artificial para a tomada de decisões em negócios.
+
 
 <span id="requisitos">
 
