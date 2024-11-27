@@ -151,7 +151,7 @@ O projeto enfrentou alguns desafios, como a saída de um integrante do grupo e a
 ## Soft Skills
 
 ## Trabalho em equipe
-Devido à redução do número de integrantes na equipe, a colaboração tornou-se ainda mais essencial. Assumimos papéis adicionais e dividimos as tarefas de forma estratégica. Por exemplo, quando um desenvolvedor enfrentou dificuldades em resolver um bug crítico, outro colega rapidamente se ofereceu para ajudar, resolvendo o problema em conjunto. Essa coordenação foi crucial para garantir que os prazos fossem cumpridos.
+Devido à redução do número de integrantes na equipe, a colaboração tornou-se ainda mais essencial. Assumimos papéis adicionais e dividimos as tarefas de forma estratégica. Por exemplo, quando um desenvolvedor enfrentou dificuldades em resolver um bug crítico(falhas no sistema de cadastro com a impossibilidade de registrar novos participantes), outro colega rapidamente se ofereceu para ajudar, resolvendo o problema em conjunto. Essa coordenação foi crucial para garantir que os prazos fossem cumpridos.
 
 ## Autonomia
 Como Scrum Master, precisei tomar decisões rápidas. Um exemplo específico foi quando me deparei com a necessidade de aprender um novo framework Bootstrap para implementar uma funcionalidade no projeto. Mesmo sem muita experiência na tecnologia, consegui buscar soluções, implementar e testar, garantindo que a entrega fosse feita a tempo.
