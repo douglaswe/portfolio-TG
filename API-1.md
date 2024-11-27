@@ -160,7 +160,7 @@ Como Scrum Master, precisei tomar decisões rápidas. Um exemplo específico foi
 Fui responsável por organizar o repositório do projeto. Além disso, durante uma sprint crítica, preparei uma apresentação para o cliente detalhando o progresso e os próximos passos, o que ajudou a alinhar expectativas e manter o projeto no rumo certo. Também monitorei e atualizei o burndown diariamente, garantindo que a equipe mantivesse o ritmo adequado.
 
 ## Comunicação
-A comunicação foi um fator determinante para o sucesso do projeto. Além de organizar as reuniões diárias (dailys), fui responsável por validar constantemente com o cliente a priorização das tarefas. Em uma ocasião específica, após uma alteração significativa solicitada pelo cliente, organizei uma reunião de emergência para discutir os impactos no backlog e ajustamos o planejamento da sprint de acordo. Isso garantiu que a equipe estivesse sempre alinhada com as expectativas do cliente.
+A comunicação foi um fator determinante para o sucesso do projeto. Além de organizar as reuniões diárias (dailys), fui responsável por validar constantemente com o cliente a priorização das tarefas. Em uma ocasião específica, após uma alteração significativa solicitada pelo cliente(a inclusão de uma tela de doação no site), organizei uma reunião de emergência para discutir os impactos no backlog e ajustamos o planejamento da sprint de acordo. Isso garantiu que a equipe estivesse sempre alinhada com as expectativas do cliente.
 
 
 <img src="https://cdn-icons-png.flaticon.com/512/959/959208.png" width="14"> [Voltar ao topo](#topo)
