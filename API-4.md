@@ -202,7 +202,13 @@ O parceiro neste projeto foi a 2RP Net, uma empresa de tecnologia focada em solu
 
 ## Contribuições Pessoais
 
-Neste projeto atuei como Desenvolvedor frontend onde desenvolvi as telas de informações do cliente, edição do cliente, quadro de clientes e o dashboards. 
+Neste projeto, atuei como PO (Product Owner), sendo responsável por fazer a ponte entre o cliente e a equipe de desenvolvimento. Minhas principais atividades incluíram alinhar expectativas, coletar e refinar os requisitos do cliente, priorizar as entregas e garantir que o time tivesse clareza sobre os objetivos do projeto.
+
+Durante o projeto, enfrentamos desafios como a saída de um integrante e a demissão de outro, o que reduziu a equipe para quatro pessoas, sendo apenas dois desenvolvedores. Diante disso, precisei assumir também o papel de desenvolvedor frontend, contribuindo diretamente para a criação das telas de informações do cliente, edição do cliente, quadro de clientes e o dashboard, utilizando TypeScript para o desenvolvimento.
+
+Além disso, continuei desempenhando minhas responsabilidades como PO, organizando o backlog e mantendo um fluxo constante de comunicação com o cliente para alinhar prioridades e garantir que as entregas fossem realizadas sem atrasos.
+
+
  
 <span id="#hard-skills">
 
